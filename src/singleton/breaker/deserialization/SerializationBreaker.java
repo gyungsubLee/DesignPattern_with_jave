@@ -1,8 +1,8 @@
-package singleton.v5.deserialization;
+package singleton.breaker.deserialization;
 
 import java.io.*;
 
-public class App {
+public class SerializationBreaker {
         public static void main(String[] args) throws IOException, ClassNotFoundException {
             Settings settings = Settings.getInstance();
             Settings settings1 = null;

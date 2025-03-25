@@ -1,11 +1,11 @@
-package singleton.v5.reflection;
+package singleton.breaker.reflection;
 
 import singleton.v5.Settings;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-public class App {
+public class ReflectionBreaker {
     public static void main(String[] args) throws NoSuchMethodException, InvocationTargetException, InstantiationException, IllegalAccessException {
         Settings settings1 = Settings.getInstance();
 

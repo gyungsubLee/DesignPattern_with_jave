@@ -1,4 +1,4 @@
-package singleton.v5.deserialization;
+package singleton.breaker.deserialization;
 
 import java.io.Serializable;
 
