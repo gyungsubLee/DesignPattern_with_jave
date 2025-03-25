@@ -1,4 +1,4 @@
-package singleton.v2;
+package _01_creational_patterns._01_singleton.v2;
 
 /**
   구현) synchronized

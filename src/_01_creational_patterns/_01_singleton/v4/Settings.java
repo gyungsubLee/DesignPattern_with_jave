@@ -1,4 +1,4 @@
-package singleton.v4;
+package _01_creational_patterns._01_singleton.v4;
 
 /**
   구현) double checked locking

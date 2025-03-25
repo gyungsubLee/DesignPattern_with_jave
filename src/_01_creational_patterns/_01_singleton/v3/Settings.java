@@ -1,4 +1,4 @@
-package singleton.v3;
+package _01_creational_patterns._01_singleton.v3;
 
 /**
  구현) eager initialization ( 이른 초기화 )

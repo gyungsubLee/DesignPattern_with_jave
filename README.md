@@ -10,12 +10,12 @@
  ###  Chapter 1: 생성 구조 패턴
 
 - **1.싱글톤 패턴**
-    - [:memo: 구현 1](/src/singleton/v1/Settings.java): 가장 단순한 구현
-    - [:memo: 구현 2](/src/singleton/v2/Settings.java): synchronized
-    - [:memo: 구현 3](/src/singleton/v3/Settings.java): eager initialization
-    - [:memo: 구현 4](/src/singleton/v4/Settings.java): double checked locking
-    - [:memo: 구현 5](/src/singleton/v5/Settings.java): inner static class [권장]
-    - [:memo: 구현 6](/src/singleton/v6/Settings.java): enum [권장]
+    - [:memo: 구현 1](/src/_01_creational_patterns/_01_singleton/v1/Settings.java): 가장 단순한 구현
+    - [:memo: 구현 2](/src/_01_creational_patterns/_01_singleton/v2/Settings.java): synchronized
+    - [:memo: 구현 3](/src/_01_creational_patterns/_01_singleton/v3/Settings.java): eager initialization
+    - [:memo: 구현 4](/src/_01_creational_patterns/_01_singleton/v4/Settings.java): double checked locking
+    - [:memo: 구현 5](/src/_01_creational_patterns/_01_singleton/v5/Settings.java): inner static class [권장]
+    - [:memo: 구현 6](/src/_01_creational_patterns/_01_singleton/v6/Settings.java): enum [권장]
 
 ###  Chapter 2: 구조 관련 패턴
 
@@ -31,5 +31,5 @@
 ```
 Template
 - **1.싱글톤 패턴**
-    - [:memo: 구현 1](/src/singleton/v1/Settings.java): 가장 단순한 구현
+    - [:memo: 구현 1](/src/_01_creational_patterns._01_singleton/v1/Settings.java): 가장 단순한 구현
 ```

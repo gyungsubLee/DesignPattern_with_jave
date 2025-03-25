@@ -1,6 +1,6 @@
-package singleton.breaker.reflection;
+package _01_creational_patterns._01_singleton.breaker.reflection;
 
-import singleton.v5.Settings;
+import _01_creational_patterns._01_singleton.v5.Settings;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

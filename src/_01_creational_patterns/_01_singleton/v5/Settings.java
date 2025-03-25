@@ -1,4 +1,4 @@
-package singleton.v5;
+package _01_creational_patterns._01_singleton.v5;
 
 /**
  * 📌 구현: static inner class (정적 내부 클래스)
@@ -33,8 +33,8 @@ package singleton.v5;
  *
  * ⚠️ 단점: 이 방식도 싱글톤 패턴을 깨는 방법은 존재한다
  *
- * 1. 리플렉션: {@link singleton.breaker.reflection.ReflectionBreaker}
- * 2. 직렬화 & 역직렬화: {@link singleton.breaker.deserialization.SerializationBreaker}
+ * 1. 리플렉션: {@link _01_creational_patterns._01_singleton.breaker.reflection.ReflectionBreaker}
+ * 2. 직렬화 & 역직렬화: {@link _01_creational_patterns._01_singleton.breaker.deserialization.SerializationBreaker}
  */
 public class Settings {
     private Settings() {}

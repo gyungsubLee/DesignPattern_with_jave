@@ -1,6 +1,6 @@
-package singleton.v6.serialization;
+package _01_creational_patterns._01_singleton.v6.serialization;
 
-import singleton.v6.Settings;
+import _01_creational_patterns._01_singleton.v6.Settings;
 
 import java.io.*;
 
@@ -11,7 +11,7 @@ import java.io.*;
 
 public class App {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-        singleton.v6.Settings settings = Settings.INSTANCE;
+        _01_creational_patterns._01_singleton.v6.Settings settings = Settings.INSTANCE;
 
         Settings settings1 = null;
         try (ObjectOutput out = new ObjectOutputStream(new FileOutputStream("settings.obj"))) {

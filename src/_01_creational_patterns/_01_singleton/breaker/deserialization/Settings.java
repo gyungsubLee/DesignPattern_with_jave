@@ -1,4 +1,4 @@
-package singleton.breaker.deserialization;
+package _01_creational_patterns._01_singleton.breaker.deserialization;
 
 import java.io.Serializable;
 

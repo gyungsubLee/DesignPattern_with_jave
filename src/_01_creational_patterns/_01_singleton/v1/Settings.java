@@ -1,4 +1,4 @@
-package singleton.v1;
+package _01_creational_patterns._01_singleton.v1;
 
 public class Settings {
 
