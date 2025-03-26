@@ -28,6 +28,9 @@
            → '다형성', '상속', '캡슐화'
       </details>
     
+  - [:memo: 실무 활용 예시](/src/_01_creational_patterns/_02_factory_method/_03_java)
+  
+    - 매개변수를 통해 동적으로 특정 인스턴스 생성
 
 ###  Chapter 2: 구조 관련 패턴
 
