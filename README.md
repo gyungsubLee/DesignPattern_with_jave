@@ -17,6 +17,18 @@
     - [:memo: 구현 5](/src/_01_creational_patterns/_01_singleton/v5/Settings.java): inner static class [권장]
     - [:memo: 구현 6](/src/_01_creational_patterns/_01_singleton/v6/Settings.java): enum [권장]
 
+- **2. 팩토리 메서드 패턴**
+  - [기본 예제](/src/_01_creational_patterns/_02_factory_method/_01_before) 
+  - [:memo: 팩토리 메서드 패턴 적용](/src/_01_creational_patterns/_02_factory_method/_02_after)
+      <details>
+        <summary>팩토리 메서드 패턴 적용을 통해 얻는 이점</summary>
+        - 객체 생성 책임 분리<br/>
+        - OCP 준수<br/>
+          ✲ OCP: '확장'에는 열려있고, '변경'에는 닫혀있어야 한다.'<br>
+           → '다형성', '상속', '캡슐화'
+      </details>
+    
+
 ###  Chapter 2: 구조 관련 패턴
 
 
