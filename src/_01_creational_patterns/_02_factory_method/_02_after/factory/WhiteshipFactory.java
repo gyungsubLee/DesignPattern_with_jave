@@ -7,6 +7,6 @@ public class WhiteshipFactory extends DefaultShipFactory {
 
     @Override
     public Ship createShip() {
-        return new Whiteship("whiteship", "white", "\uD83D\uDEE5");
+        return new Whiteship();
     }
 }
