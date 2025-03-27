@@ -1,9 +1,9 @@
 package _01_creational_patterns._02_factory_method._03_java;
 
-import org.springframework.beans.factory.BeanFactory;
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import spring_dumy.AnnotationConfigApplicationContext;
+import spring_dumy.BeanFactory;
+import spring_dumy.ClassPathXmlApplicationContext;
 
 public class SpringBeanFactoryExample {
 
