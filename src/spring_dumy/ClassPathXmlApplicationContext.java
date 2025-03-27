@@ -10,7 +10,7 @@ public class ClassPathXmlApplicationContext implements ApplicationContext{
     }
 
     @Override
-    public <S, T> T getBean(S arg, Class<T> Clazz) {
+    public <T> T getBean(String name, Class<T> Clazz) {
         return null;
     }
 }

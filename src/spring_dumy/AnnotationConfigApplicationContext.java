@@ -9,6 +9,7 @@ import java.util.Map;
 public class AnnotationConfigApplicationContext implements ApplicationContext {
 
     private final Map<Class<?>, Object> beanMap = new HashMap<>();
+    private final Map<String, Object> namedBeanMap = new HashMap<>();
 
     public AnnotationConfigApplicationContext(Class<?> configClass) {
         try {
@@ -17,13 +18,16 @@ public class AnnotationConfigApplicationContext implements ApplicationContext {
             for (Method method : configClass.getDeclaredMethods()) {
                 if (method.isAnnotationPresent(Bean.class)) {
                     Object returnObj = method.invoke(configInstance);
+                    String beanName = method.getName();
 
                     if (returnObj instanceof FactoryBean<?> factoryBean) {
                         Object obj = factoryBean.getObject();
                         Class<?> type = factoryBean.getObjectType();
-                        beanMap.put(type, obj); // Ship.class -> Ship 객체 등록
+                        beanMap.put(type, obj);
+                        namedBeanMap.put(beanName, obj);
                     } else {
                         beanMap.put(method.getReturnType(), returnObj);
+                        namedBeanMap.put(beanName, returnObj);
                     }
                 }
             }
@@ -38,7 +42,8 @@ public class AnnotationConfigApplicationContext implements ApplicationContext {
     }
 
     @Override
-    public <S, T> T getBean(S arg, Class<T> Clazz) {
-        return null;
+    public <T> T getBean(String name, Class<T> clazz) {
+        return clazz.cast(namedBeanMap.get(name));
     }
+
 }
