@@ -1,4 +1,4 @@
-package spring_dumy.util;
+package demo.uriComponents;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

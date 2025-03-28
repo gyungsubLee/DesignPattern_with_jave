@@ -1,4 +1,4 @@
-package spring_dumy;
+package demo.beanContainer;
 
 public class ClassPathXmlApplicationContext implements ApplicationContext{
     public ClassPathXmlApplicationContext(String s) {

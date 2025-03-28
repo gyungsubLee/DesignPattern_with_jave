@@ -1,4 +1,4 @@
-package spring_dumy;
+package demo.beanContainer;
 
 public interface FactoryBean<T> {
 

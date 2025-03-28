@@ -2,7 +2,7 @@ package _01_creational_patterns._03_abstract_factory._03_java.spring;
 
 
 import _01_creational_patterns._03_abstract_factory._02_after.basic.ship.Ship;
-import spring_dumy.FactoryBean;
+import demo.beanContainer.FactoryBean;
 
 public class ShipFactory implements FactoryBean<Ship> {
 

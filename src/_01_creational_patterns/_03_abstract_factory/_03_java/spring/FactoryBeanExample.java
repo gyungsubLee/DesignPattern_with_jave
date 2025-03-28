@@ -1,8 +1,8 @@
 package _01_creational_patterns._03_abstract_factory._03_java.spring;
 
 import _01_creational_patterns._03_abstract_factory._02_after.basic.ship.Ship;
-import spring_dumy.AnnotationConfigApplicationContext;
-import spring_dumy.ApplicationContext;
+import demo.beanContainer.AnnotationConfigApplicationContext;
+import demo.beanContainer.ApplicationContext;
 
 public class FactoryBeanExample {
     public static void main(String[] args) {

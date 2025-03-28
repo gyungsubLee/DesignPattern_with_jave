@@ -1,6 +1,6 @@
-package spring_dumy;
+package demo.beanContainer;
 
-import spring_dumy.annotation.Bean;
+import demo.beanContainer.annotation.Bean;
 
 import java.lang.reflect.Method;
 import java.util.HashMap;

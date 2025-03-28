@@ -1,4 +1,4 @@
-package spring_dumy.util;
+package demo.uriComponents;
 
 public interface UriBuilder {
 

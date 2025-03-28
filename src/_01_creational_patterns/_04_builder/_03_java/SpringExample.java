@@ -1,7 +1,7 @@
 package _01_creational_patterns._04_builder._03_java;
 
-import spring_dumy.util.UriComponents;
-import spring_dumy.util.UriComponentsBuilder;
+import demo.uriComponents.UriComponents;
+import demo.uriComponents.UriComponentsBuilder;
 
 public class SpringExample {
 

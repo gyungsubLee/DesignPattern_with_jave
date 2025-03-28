@@ -1,4 +1,4 @@
-package spring_dumy.annotation;
+package demo.beanContainer.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
