@@ -35,6 +35,12 @@
 - **3. 추상 팩토리 패턴**
   - [:memo: 기본 예제 - 문제점](/src/_01_creational_patterns/_03_abstract_factory/_01_before/WhiteshipFactory.java)
   - [:memo: 추상 팩토리 패턴 적용](/src/_01_creational_patterns/_03_abstract_factory/_02_after/ShipInventory.java)
+  - [:memo: 실무 활용 예시](/src/_01_creational_patterns/_03_abstract_factory/_03_java/spring)
+
+- **4. 빌더 패턴**
+  - [:memo: 기본 예제 - 문제점](/src/_01_creational_patterns/_04_builder/_01_before/App.java)
+  - [:memo: 빌더 패턴 적용](/src/_01_creational_patterns/_04_builder/_02_after)
+  
 
 ###  Chapter 2: 구조 관련 패턴
 

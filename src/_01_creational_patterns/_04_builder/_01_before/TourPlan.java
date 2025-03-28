@@ -22,13 +22,13 @@ public class TourPlan {
         this.plans = new ArrayList<>();
     }
 
-    public TourPlan(String title, int nights, int days, LocalDate startDate, String whereToStay) {
+    public TourPlan(String title, int nights, int days, LocalDate startDate, String whereToStay, List<DetailPlan> plans) {
         this.title = title;
         this.nights = nights;
         this.days = days;
         this.startDate = startDate;
         this.whereToStay = whereToStay;
-        this.plans = new ArrayList<>();
+        this.plans = plans;
     }
 
     @Override
