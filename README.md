@@ -39,6 +39,10 @@
   - [:memo: 실무 활용 예제](/src/main/java/_01_creational_patterns/_05_prototype/_03_java)
 
 ###  Chapter 2: 구조 관련 패턴
+- **6. 어댑터 패턴**
+  - [:memo: 어댑터 패턴 적용](/src/main/java/_02_structural_patterns/_06_adapter/_02_after)
+  - [:memo: 실무 활용 예제](/src/main/java/_02_structural_patterns/_06_adapter/_03_java)
+  - 자세한 내용은 노션 정리 페이지 참조
 
 
 ###  Chapter 3: 행동 관련 패턴
