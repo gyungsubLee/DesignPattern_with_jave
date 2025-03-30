@@ -44,6 +44,11 @@
   - [:memo: 실무 활용 예제](/src/main/java/_02_structural_patterns/_06_adapter/_03_java)
   - 자세한 내용은 노션 정리 페이지 참조
 
+- **7. 브릿지 패턴**
+  - [:memo: 기본 예제 - 문제점](/src/main/java/_02_structural_patterns/_07_bridge/_01_before)
+  - [:memo: 브릿지 패턴 적용](/src/main/java/_02_structural_patterns/_07_bridge/_02_after)
+  - [:memo: 실무 활용 예제](/src/main/java/_02_structural_patterns/_07_bridge/_03_java)
+  - 자세한 내용은 노션 정리 페이지 참조
 
 ###  Chapter 3: 행동 관련 패턴
 
