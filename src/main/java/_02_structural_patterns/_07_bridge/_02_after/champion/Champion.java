@@ -1,4 +1,4 @@
-package _02_structural_patterns._07_bridge._01_before.champion;
+package _02_structural_patterns._07_bridge._02_after.champion;
 
 import _02_structural_patterns._07_bridge._02_after.skin.Skin;
 
