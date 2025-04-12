@@ -61,6 +61,10 @@
   - [:memo: 컴포짓 패턴 적용](/src/main/java/_02_structural_patterns/_09_decorator/_02_after)
   - [:memo: 실무 활용 예제](/src/main/java/_02_structural_patterns/_09_decorator/_03_java)
 
+- **10. 퍼사드 패턴**
+  - [:memo: 기본 예제](/src/main/java/_02_structural_patterns/_10_facade/_01_before)
+  - [:memo: 컴포짓 패턴 적용](/src/main/java/_02_structural_patterns/_10_facade/_02_after)
+  - [:memo: 실무 활용 예제](/src/main/java/_02_structural_patterns/_10_facade/_03_java)
 
 ###  Chapter 3: 행동 관련 패턴
 
