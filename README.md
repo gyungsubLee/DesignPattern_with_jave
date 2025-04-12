@@ -71,6 +71,12 @@
   - [:memo: 플라이웨이트 패턴 적용](/src/main/java/_02_structural_patterns/_11_flyweight/_02_after)
   - [:memo: 실무 활용 예제](/src/main/java/_02_structural_patterns/_11_flyweight/_03_java)
 
+- **12. 프록시 패턴**
+  - [:memo: 기본 예제](/src/main/java/_02_structural_patterns/_12_proxy/_01_before)
+  - [:memo: 플라이웨이트 패턴 적용](/src/main/java/_02_structural_patterns/_12_proxy/_02_after)
+  - [:memo: 실무 활용 예제](/src/main/java/_02_structural_patterns/_12_proxy/_03_java)
+
+
 ###  Chapter 3: 행동 관련 패턴
 
 
