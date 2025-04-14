@@ -79,6 +79,11 @@
 
 ###  Chapter 3: 행동 관련 패턴
 
+- **13. 책임 연쇄 패턴**
+  - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before)
+  - [:memo: 책임 연쇄 패턴 적용](/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after)
+  - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java)
+
 
 
 
