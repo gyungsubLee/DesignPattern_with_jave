@@ -84,6 +84,10 @@
   - [:memo: 책임 연쇄 패턴 적용](/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after)
   - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java)
 
+- **14. 커맨드 패턴**
+  - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_14_command/_01_before)
+  - [:memo: 커맨드 패턴 적용](/src/main/java/_03_behavioral_patterns/_14_command/_02_after)
+  - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_14_command/_03_java)
 
 
 
