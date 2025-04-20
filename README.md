@@ -99,6 +99,11 @@
   - [:memo: 이터레이터 패턴 적용](/src/main/java/_03_behavioral_patterns/_16_iterator/_02_after)
   - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_16_iterator/_03_java)
 
+- **17. 중재자 패턴**
+  - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before)
+  - [:memo: 이터레이터 패턴 적용](/src/main/java/_03_behavioral_patterns/_17_mediator/_02_after)
+  - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_17_mediator/_03_java)
+
 
 
 
