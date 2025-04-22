@@ -106,8 +106,13 @@
 
 - **18. 메멘토 패턴**
   - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_18_memento/_01_before)
-  - [:memo: 이터레이터 패턴 적용](/src/main/java/_03_behavioral_patterns/_18_memento/_02_after)
+  - [:memo: 메멘토 패턴 적용](/src/main/java/_03_behavioral_patterns/_18_memento/_02_after)
   - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_18_memento/_03_java)
+
+- **19. 옵저버 패턴**
+  - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_19_observer/_01_before)
+  - [:memo: 옵저버 패턴 적용](/src/main/java/_03_behavioral_patterns/_19_observer/_02_after)
+  - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_19_observer/_03_java)
 
 
 <br>
