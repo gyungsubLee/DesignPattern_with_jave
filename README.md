@@ -6,6 +6,8 @@
 
 <br>
 
+### [노션 정리 페이지 ](https://beautiful-college-c84.notion.site/GoF-1c3eda9b0fe181c2b6eac9b4c4c77f6e?pvs=4)
+
 
  ###  Chapter 1: 생성 관련 패턴
 
@@ -101,7 +103,7 @@
 
 - **17. 중재자 패턴**
   - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before)
-  - [:memo: 이터레이터 패턴 적용](/src/main/java/_03_behavioral_patterns/_17_mediator/_02_after)
+  - [:memo: 중재자 패턴 적용](/src/main/java/_03_behavioral_patterns/_17_mediator/_02_after)
   - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_17_mediator/_03_java)
 
 - **18. 메멘토 패턴**
@@ -114,6 +116,10 @@
   - [:memo: 옵저버 패턴 적용](/src/main/java/_03_behavioral_patterns/_19_observer/_02_after)
   - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_19_observer/_03_java)
 
+- **20. 상태 패턴**
+  - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_20_state/_01_before)
+  - [:memo: 상태 패턴 적용](/src/main/java/_03_behavioral_patterns/_20_state/_02_after)
+  - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_20_state/_03_java)
 
 <br>
 
