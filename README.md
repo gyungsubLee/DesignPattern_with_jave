@@ -4,10 +4,11 @@
 > 기간: 25.03.24(월) ~   <br>
 > Reference: [ 코딩으로 학습하는 GoF의 디자인 패턴](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/dashboard)
 
+
+
+> ### NOTES: [노션 정리 페이지 ](https://beautiful-college-c84.notion.site/GoF-1c3eda9b0fe181c2b6eac9b4c4c77f6e?pvs=4)
+
 <br>
-
-### [노션 정리 페이지 ](https://beautiful-college-c84.notion.site/GoF-1c3eda9b0fe181c2b6eac9b4c4c77f6e?pvs=4)
-
 
  ###  Chapter 1: 생성 관련 패턴
 
@@ -119,12 +120,5 @@
 - **20. 상태 패턴**
   - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_20_state/_01_before)
   - [:memo: 상태 패턴 적용](/src/main/java/_03_behavioral_patterns/_20_state/_02_after)
-  - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_20_state/_03_java)
 
-<br>
 
-```
-Template
-- **1.싱글톤 패턴**
-    - [:memo: 구현 1](/src/_01_creational_patterns._01_singleton/v1/Settings.java): 가장 단순한 구현
-```
