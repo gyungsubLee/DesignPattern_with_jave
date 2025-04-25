@@ -121,4 +121,7 @@
   - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_20_state/_01_before)
   - [:memo: 상태 패턴 적용](/src/main/java/_03_behavioral_patterns/_20_state/_02_after)
 
+- **21. 전략 패턴**
+  - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_21_strategy/_01_before)
+  - [:memo: 상태 패턴 적용](/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after)
 
