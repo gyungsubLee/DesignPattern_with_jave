@@ -123,5 +123,12 @@
 
 - **21. 전략 패턴**
   - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_21_strategy/_01_before)
-  - [:memo: 상태 패턴 적용](/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after)
+  - [:memo: 전략 패턴 적용](/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after)
   - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_21_strategy/_03_java)
+
+
+- **22. 템플릿 메서드 패턴**
+  - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_22_template/_01_before)
+  - [:memo: 템플릿 메서드 패턴 적용](/src/main/java/_03_behavioral_patterns/_22_template/_02_after/method)
+  - [:memo: 템플릿 콜백 패턴 적용](/src/main/java/_03_behavioral_patterns/_22_template/_02_after/callback)
+  - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_22_template/_03_java)
