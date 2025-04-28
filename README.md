@@ -132,3 +132,8 @@
   - [:memo: 템플릿 메서드 패턴 적용](/src/main/java/_03_behavioral_patterns/_22_template/_02_after/method)
   - [:memo: 템플릿 콜백 패턴 적용](/src/main/java/_03_behavioral_patterns/_22_template/_02_after/callback)
   - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_22_template/_03_java)
+
+- **23. 비지터 패턴**
+  - [:memo: 기본 예제](/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before)
+  - [:memo: 비지터 패턴 적용](/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/method)
+  - [:memo: 실무 활용 예제](/src/main/java/_03_behavioral_patterns/_23_visitor/_03_java)
